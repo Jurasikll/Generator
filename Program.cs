@@ -10,6 +10,10 @@ namespace Generator
     {
         static void Main(string[] args)
         {
+            int test;
+            test = 1 + 1;
+            Console.WriteLine(test);
+            Console.ReadKey();
         }
     }
 }

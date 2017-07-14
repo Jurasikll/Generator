@@ -1,0 +1,6 @@
+c:\users\yury.chervyakov\documents\visual studio 2017\Projects\Generator\Generator\bin\Debug\Generator.exe.config
+c:\users\yury.chervyakov\documents\visual studio 2017\Projects\Generator\Generator\bin\Debug\Generator.exe
+c:\users\yury.chervyakov\documents\visual studio 2017\Projects\Generator\Generator\bin\Debug\Generator.pdb
+c:\users\yury.chervyakov\documents\visual studio 2017\Projects\Generator\Generator\obj\Debug\Generator.csprojResolveAssemblyReference.cache
+c:\users\yury.chervyakov\documents\visual studio 2017\Projects\Generator\Generator\obj\Debug\Generator.exe
+c:\users\yury.chervyakov\documents\visual studio 2017\Projects\Generator\Generator\obj\Debug\Generator.pdb
