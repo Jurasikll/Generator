@@ -4,3 +4,9 @@ c:\users\yury.chervyakov\documents\visual studio 2017\Projects\Generator\Generat
 c:\users\yury.chervyakov\documents\visual studio 2017\Projects\Generator\Generator\obj\Debug\Generator.csprojResolveAssemblyReference.cache
 c:\users\yury.chervyakov\documents\visual studio 2017\Projects\Generator\Generator\obj\Debug\Generator.exe
 c:\users\yury.chervyakov\documents\visual studio 2017\Projects\Generator\Generator\obj\Debug\Generator.pdb
+C:\Users\juras_000\Documents\Visual Studio 2017\Projects\Generator\Generator\bin\Debug\Generator.exe.config
+C:\Users\juras_000\Documents\Visual Studio 2017\Projects\Generator\Generator\bin\Debug\Generator.exe
+C:\Users\juras_000\Documents\Visual Studio 2017\Projects\Generator\Generator\bin\Debug\Generator.pdb
+C:\Users\juras_000\Documents\Visual Studio 2017\Projects\Generator\Generator\obj\Debug\Generator.csprojResolveAssemblyReference.cache
+C:\Users\juras_000\Documents\Visual Studio 2017\Projects\Generator\Generator\obj\Debug\Generator.exe
+C:\Users\juras_000\Documents\Visual Studio 2017\Projects\Generator\Generator\obj\Debug\Generator.pdb

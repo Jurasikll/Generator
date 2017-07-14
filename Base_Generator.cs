@@ -13,10 +13,9 @@ namespace Generator
         private UInt32 levelsCount;
         List<byte> levelsFillRatio;
 
-        public Boolean set_map_params(UInt32 width, UInt32 height, UInt32 levelsCount, List<byte> levelsFillRatio)
+        public void set_map_params(UInt32 width, UInt32 height, UInt32 levelsCount, List<byte> levelsFillRatio)
         {
             Int32 countLevelsFillRatio = levelsFillRatio.Count;
-            Boolean res = false;
             const string ERROR_MSG_UNCORECT_LEVELS_COUNT = "Неверное колличество уровней карты (levelsCount и levelsFillRatio.count должны быть равны)";
 
             if (levelsCount == countLevelsFillRatio)
@@ -29,13 +28,9 @@ namespace Generator
                 {
                     this.levelsFillRatio.Add(levelsFillRatio[i]);
                 }
-                res = true;
-
-            } else
-            {
+            } else {
                 throw new Exception(ERROR_MSG_UNCORECT_LEVELS_COUNT);
             }
-            return res;
         }
         public UInt32 Width 
         {
